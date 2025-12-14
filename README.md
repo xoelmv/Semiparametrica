@@ -15,6 +15,6 @@ Investigación sobre métodos no paramétricos para comparar funciones de densid
 - **Comparación de densidades** - Marco metodológico y contrastes de hipótesis
 - **Análisis del estimador** - Propiedades teóricas y comportamiento práctico
 - **Aplicación con datos reales** - Datos de supervivencia en tumores cerebrales (`BrainCancer` del paquete `ISLR2`)
-- 
+  
 ### Presentación (RNPS-presentacion.pdf)
 - Resumen visual del método y sus componentes
